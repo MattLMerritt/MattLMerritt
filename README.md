@@ -1,15 +1,15 @@
-### Hi, I'm Matthew
+### Hi 👋
 
-I'm Matthew Merritt a Computer Science BS at Rensselaer Polytechnic Institute - I love Computer Science and learning/creating intersection between it and other fields!
+I'm Matthew Merritt, a Computer Science BS at Rensselaer Polytechnic Institute - I love Computer Science and learning/creating intersections between it and other fields!
 
 #### I'm Currently
 - _**Working on**_ research for Explainability of Federated Machine Learning Models
-- _**Learning about**_ Distributed Systems and Cognative/Computer Modeling (Spring 24)
+- _**Learning about**_ Distributed Systems and Cognitive/Computer Modeling (Spring 24)
 
 #### Work Stuff
 - 💳 Incoming VISA Software Engineer
 - 🔍 3x Google Intern
-- 🧪 Pacific Northwest National Laboratory
+- 🧪 Pacific Northwest National Laboratory Intern
 
 <!--
 **MattLMerritt/MattLMerritt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
